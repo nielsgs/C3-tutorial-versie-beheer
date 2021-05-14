@@ -11,6 +11,11 @@ int main()
     int g = x + y;
     printf("%d", g);
     //Freek
+    int z = 99;
+    int x = 30;
+
+    int s = z - x;
+    printf("%d", s);
 
     //Jasper
 
