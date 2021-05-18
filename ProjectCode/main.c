@@ -21,6 +21,10 @@ int main()
 
     //Tijn
 
+	int t = 70;
+    	int n = 3;
+
+
     //Cas
 
     //Niels
