@@ -6,7 +6,7 @@ int main()
     printf("Dit is het begin van de code waar iedereen iets aan zal schrijven:\n");
     //Guus
     int x = 13;
-    int y = 277;
+    int y = 297;
 
     int g = x + y;
     printf("%d", g);
@@ -28,6 +28,11 @@ int main()
     //Cas
 
     //Niels
+	int a = 17;
+	int b = 44;
+	
+	int c = b(a - s);
+	printf("%f", c);
 
 
     return 0;
