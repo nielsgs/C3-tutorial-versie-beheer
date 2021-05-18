@@ -33,6 +33,21 @@ int main()
     //Cas
 
     //Niels
+	int a = 13;
+	int b = 9;
+	scanf("hier a: %d/n", &a);
+	scanf("hier b: %d/n", &b);
+
+	int c = a - b;
+	if(c > (a && b)){
+  	  printf("JA");
+			}
+
+	else	{
+    printf("NEE");
+		}
+	
+	
 
 
     return 0;
