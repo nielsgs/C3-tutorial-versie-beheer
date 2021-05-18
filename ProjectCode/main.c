@@ -19,6 +19,11 @@ int main()
 
     //Jasper
 
+	int j = 1;
+	if(j)
+	{
+		printf("\n%d\n", j);
+	}
     //Tijn
 
 	int t = 70;
